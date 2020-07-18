@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 - ❤️喜欢 linux 平台，喜欢 java/go/js 语言
 - 🔭伪全栈开发者。
 
+[![Zido's github stats](https://github-readme-stats.vercel.app/api?username=zidoshare)](https://github.com/anuraghazra/github-readme-stats)
