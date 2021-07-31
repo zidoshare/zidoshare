@@ -13,10 +13,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🤔一个普通的码农
-- 🌱一个理想的完美主义者
-- ❤️ 喜欢开源，喜欢技术，偶尔喜欢折腾一些奇奇怪怪的东西
-- ❤️喜欢 linux 平台，喜欢 java/go/rust/js 语言
-- 🔭伪全栈开发者。
 
-[![Zido's github stats](https://github-readme-stats.vercel.app/api?username=zidoshare)](https://github.com/anuraghazra/github-readme-stats)
+----
+- 🤔 普通但完美主义
+- 🔭 我目前正在研究 Kubernetes 和所有与容器相关的东西
+- 📖 我正在学习 golang 和 rust
+- 📫 如何联系我: <wuhongxu1208@gmail.com>
+
+----
+
+- 🤔 ordinary but perfectionism
+- 🔭 I’m currently working on Kubernetes & all things related to containers
+- 📖 I’m currently learning golang & rust
+- 📫 How to reach me: <wuhongxu1208@gmail.com>
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=zidoshare&show_icons=true">
+
+
