@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-----
 - 🤔 普通但完美主义
 - 🔭 我目前正在研究 Kubernetes 和所有与容器相关的东西
 - 📖 我正在学习 golang 和 rust
