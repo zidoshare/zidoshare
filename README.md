@@ -27,7 +27,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <wuhongxu1208@gmail.com>
 - 🧑‍🏫 blog: <https://zido.site>
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=zidoshare&show_icons=true">
-
-
